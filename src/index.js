@@ -15,7 +15,7 @@ const routing = (
             </div>
         </div>
       <div>
-        <Route path="/home" component={App} />
+        <Route path="/" component={App} />
         <Route path="/trending" component={Trending} />
         <Route path="/videos" component={YourVideos} />
       </div>
