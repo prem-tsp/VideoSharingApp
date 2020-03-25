@@ -1,0 +1,39 @@
+{
+    "userID": 1,
+    "subscriptionsList": [
+        {
+            "name":"Logan Paul",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/50/Logan_Paul_%2848086619418%29.jpg"
+        },
+        {
+            "name":"MrBeast",
+            "thumbnail":"https://pbs.twimg.com/profile_images/994592419705274369/RLplF55e_400x400.jpg"
+        },
+        {
+            "name":"Pewdiepie",
+            "thumbnail":"https://images.dexerto.com/uploads/2020/03/08004252/pewdiepie-reacts-to-fans-memes-haircut-logo.png"
+        },
+        {
+            "name":"David Dobrik",
+            "thumbnail":"https://i.insider.com/5e08f6dc954bda3e07474275?width=1100&format=jpeg&auto=webp"
+        },
+        {
+            "name":"MKBHD",
+            "thumbnail":"https://4kwallpaper.wiki/wp-content/uploads/2019/07/327.jpg"
+        },
+        {
+            "name":"Jeff Wittek",
+            "thumbnail":"https://www.famousbirthdays.com/headshots/jeffrey-wittek-2.jpg"
+        }
+    ],
+    "categories": [
+        "Art",
+        "Music",
+        "Lifestyle",
+        "Sports",
+        "Entertainment",
+        "Workplace",
+        "Pranks",
+        "Vines"
+    ]
+}
